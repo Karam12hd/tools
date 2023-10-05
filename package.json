@@ -1,0 +1,33 @@
+{
+  "name": "uph",
+  "version": "1.0.0",
+  "description": "A Discord bot that makes use of the Discourse API to bring Discourse trust levels to your Discord server.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discourse",
+    "trust",
+    "level",
+    "discord",
+    "integration",
+    "role",
+    "bot",
+    "forum",
+    "community",
+    "sync",
+    "user",
+    "profile",
+    "permission",
+    "access"
+  ],
+  "author": "UPH",
+  "dependencies": {
+    "discord.js": "^11.5.0",
+    "moment": "^2.24.0",
+    "mysql": "^2.17.1",
+    "request": "^2.88.0",
+    "util": "^0.12.1"
+  }
+}

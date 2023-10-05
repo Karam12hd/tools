@@ -1,1 +1,3 @@
-python DDos.py
+@echo off
+node index.js
+pause
